@@ -4,3 +4,6 @@
 [submodule "Moth-Eye-Raytracing-Python"]
 	path = Moth-Eye-Raytracing-Python
 	url = git@github.com:MrDNAlex/Moth-Eye-Raytracing-Python.git
+[submodule "Moth-Eye-Raytracing-Data-Processing"]
+	path = Moth-Eye-Raytracing-Data-Processing
+	url = git@github.com:MrDNAlex/Moth-Eye-Raytracing-Data-Processing.git
