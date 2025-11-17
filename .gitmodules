@@ -7,3 +7,6 @@
 [submodule "Moth-Eye-Raytracing-Data-Processing"]
 	path = Moth-Eye-Raytracing-Data-Processing
 	url = git@github.com:MrDNAlex/Moth-Eye-Raytracing-Data-Processing.git
+[submodule "Moth-Eye-RCWA"]
+	path = Moth-Eye-RCWA
+	url = git@github.com:MrDNAlex/Moth-Eye-RCWA.git
