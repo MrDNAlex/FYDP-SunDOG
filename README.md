@@ -1,5 +1,5 @@
 # FYDP-SunDOG
-A Repo for all the Programming and Coding activities and projects related to my Nanotechnology Engineering FYDP SunDOG
+A Repo for all the Programming and Coding activities and projects related to my Nanotechnology Engineering FYDP (Fourth Year Design Project / Capstone) SunDOG
 
 # What is SunDOG?
 SunDOG is meant to be a After Market Polymer Film produced roll to roll that is applied to Solar Panels to increase the Power Output and Efficiency.
