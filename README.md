@@ -32,6 +32,7 @@ Further development of the Raytracing Library has been done in the following rep
 - [NE-451-Final-Project-Raytracing](https://github.com/MrDNAlex/NE-451-Final-Project-Raytracing/main)
 
 # Results
+Results achieved and presented to our Consultant Professor at the end of Nov 2025
 <img width="1867" height="1050" alt="image" src="https://github.com/user-attachments/assets/aed275d4-b43c-4c83-9d44-04b5923ac4a2" />
 
 <img width="1867" height="1041" alt="image" src="https://github.com/user-attachments/assets/9f78b05e-f396-46c2-8333-8ac184d85f3f" />
