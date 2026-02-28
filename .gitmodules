@@ -10,3 +10,6 @@
 [submodule "Moth-Eye-RCWA"]
 	path = Moth-Eye-RCWA
 	url = git@github.com:MrDNAlex/Moth-Eye-RCWA.git
+[submodule "SunDOG-Pi-Symposium"]
+	path = SunDOG-Pi-Symposium
+	url = git@github.com:MrDNAlex/SunDOG-Pi-Symposium.git
