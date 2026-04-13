@@ -6,6 +6,8 @@ SunDOG is meant to be a After Market Polymer Film produced roll to roll that is 
 
 This thin film is comprised of 3 components, the Moth Eye Antireflective Layer, the PDMS + Quantum Dot Layer and the Adhesive Layer to stick to the panel
 
+For full details about the project read the Capstone Engineering Report named `NE_2026_20_FinalReport.pdf` in the repository
+
 <img width="1870" height="1048" alt="image" src="https://github.com/user-attachments/assets/c9375c4d-a4c0-49b6-a315-23f5458afdd5" />
 
 ## Moth Eye Antireflective Layer
